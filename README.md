@@ -1,6 +1,6 @@
 # Warpcast Token Giveaway System
 
-Welcome! This project aims to provide a robust and user-friendly system for managing daily token giveaways through the Warpcast Frame. The system includes features such as user verification, daily token allocation management, and secure token transfers.
+Welcome! This is my very first project aims towards web3 application to provide a robust and user-friendly system for managing daily token giveaways through the Warpcast Frame. The system includes features such as user verification, daily token allocation management, and secure token transfers. Hope you like it! feel
 
 ## Overview
 
